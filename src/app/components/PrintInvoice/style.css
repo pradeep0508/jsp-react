@@ -1,0 +1,127 @@
+.print_container {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    font-size: 12px;
+    margin-top: 14rem;
+    font-weight: 800;
+}
+
+.invoice_number_section {
+    margin-top: 10rem;
+    display: flex;
+    margin-left: 8rem;
+}
+
+.invoice_number {
+    margin-right: 14rem;
+}
+
+.purchase_info {
+    display: flex;
+    /* margin-right: 10rem; */
+    /* justify-content: space-between; */
+}
+
+.purchase_number {
+    width: 50%;
+    /* margin-right: 3rem; */
+}
+
+.vendor_purchase {
+    width: 30%;
+}
+
+.vendor_info {
+    margin-top: 2rem;
+    display: flex;
+    text-align: left;
+    height: 9.7rem;
+    margin-left: 0.5rem;
+}
+
+.purchase_payment_term {
+    margin-top: 1rem;
+}
+
+.customer_gst {
+    display: flex;
+    margin-left: 10rem;
+}
+
+.vendor_address {
+    flex-basis: 65%;
+}
+
+.invoice_supply_list {
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin-top: 5rem; */
+    /* margin-left: 2rem; */
+}
+
+.invoice_date {
+    width: 50%;
+    text-align: end;
+}
+
+.invoice_final_total {
+    margin-top: 7rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.invoice_item_total {
+    width: 17%;
+    text-align: end;
+}
+
+.invoice_tax_item {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.invoice_slno {
+    width: 7%;
+    text-align: left;
+}
+
+.invoice_item {
+    width: 20%;
+    text-align: left;
+}
+
+.invoice_item_des {
+    width: 28%;
+    text-align: left;
+}
+
+.invoice_item_hsn {
+    width: 10%;
+}
+
+.invoice_item_qty {
+    width: 10%;
+}
+
+.invoice_item_rate {
+    width: 10%;
+}
+
+.tax_label {
+    margin-right: 5rem;
+}
+
+.tax_label_value {
+    width: 10%;
+    text-align: right;
+}
+
+.invoice_supply_container {
+    height: 15rem;
+    margin-top: 5rem;
+}
+
+.invoice_tax_total {
+    margin-top: 5rem;
+}
